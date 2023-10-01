@@ -76,6 +76,7 @@
 - Oresim (Ported from [Atomic](https://gitlab.com/0x151/atomic))
 - PacketFly (Taken from an [unmerged PR](https://github.com/MeteorDevelopment/meteor-client/pull/813))
 - Painter
+- QuartzFarmer (Modified echest farmer)
 - Rendering
 - RoboWalk ((Taken from an [unmerged PR](https://github.com/MeteorDevelopment/meteor-client/pull/3015)))
 - Shield Bypass

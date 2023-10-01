@@ -75,6 +75,7 @@ public class MeteorRejectsAddon extends MeteorAddon {
         modules.add(new OreSim());
         modules.add(new PacketFly());
         modules.add(new Painter());
+        modules.add(new QuartzFarmer());
         modules.add(new Rendering());
         modules.add(new RoboWalk());
         modules.add(new ShieldBypass());
